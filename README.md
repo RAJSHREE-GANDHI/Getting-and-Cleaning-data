@@ -1,4 +1,4 @@
-# Getting-and-Cleanning-data
+# Getting-and-Cleaning-data
 This repository is a submission for Getting and Cleanning Data course project.
 ## Files
  * ```CodeBook.md``` a code book that describes the variables, the data, and any transformations or work that I performed to clean up the data
